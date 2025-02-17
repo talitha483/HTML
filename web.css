@@ -47,3 +47,46 @@ li{
     font-family: "tahoma";
     font-size: 15px;
 }
+.btn-red {
+    padding: 10px;
+    background: hotpink;
+    color: cyan;
+}
+
+.btn-blue {
+    padding: 10px;
+    background: darkorchid;
+    color: lavender;
+}
+
+.btn-green {
+    padding: 10px;
+    background: hotpink;
+    color: cyan;
+}
+
+.solid {
+    border-style: solid;
+    border-width: 4px;
+    border-color: aliceblue;
+}
+.dotted{
+    border-style: dotted;
+    border-width: 4px;
+    border-color: aliceblue;
+}
+.ridge{
+    border-style: ridge;
+    border-width: 4px;
+}
+.inset{
+    border-style: inset;
+    border-width: 4px;
+}
+.outset{
+    border-style: outset;
+    border-width: 4px;
+}
+.round{
+    border-radius: 20px;
+}
